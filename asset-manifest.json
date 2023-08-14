@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/YatoSanctoDevn/static/css/main.1238858f.css",
-    "main.js": "/YatoSanctoDevn/static/js/main.3b21a9af.js",
+    "main.js": "/YatoSanctoDevn/static/js/main.97ae827a.js",
     "static/js/787.489ca74d.chunk.js": "/YatoSanctoDevn/static/js/787.489ca74d.chunk.js",
     "index.html": "/YatoSanctoDevn/index.html",
     "main.1238858f.css.map": "/YatoSanctoDevn/static/css/main.1238858f.css.map",
-    "main.3b21a9af.js.map": "/YatoSanctoDevn/static/js/main.3b21a9af.js.map",
+    "main.97ae827a.js.map": "/YatoSanctoDevn/static/js/main.97ae827a.js.map",
     "787.489ca74d.chunk.js.map": "/YatoSanctoDevn/static/js/787.489ca74d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1238858f.css",
-    "static/js/main.3b21a9af.js"
+    "static/js/main.97ae827a.js"
   ]
 }
