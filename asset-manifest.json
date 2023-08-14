@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YatoSanctoDevn/static/css/main.1238858f.css",
-    "main.js": "/YatoSanctoDevn/static/js/main.97ae827a.js",
-    "static/js/787.489ca74d.chunk.js": "/YatoSanctoDevn/static/js/787.489ca74d.chunk.js",
-    "index.html": "/YatoSanctoDevn/index.html",
-    "main.1238858f.css.map": "/YatoSanctoDevn/static/css/main.1238858f.css.map",
-    "main.97ae827a.js.map": "/YatoSanctoDevn/static/js/main.97ae827a.js.map",
-    "787.489ca74d.chunk.js.map": "/YatoSanctoDevn/static/js/787.489ca74d.chunk.js.map"
+    "main.css": "/YatoSanctoDev/static/css/main.1238858f.css",
+    "main.js": "/YatoSanctoDev/static/js/main.356e1ba6.js",
+    "static/js/787.489ca74d.chunk.js": "/YatoSanctoDev/static/js/787.489ca74d.chunk.js",
+    "index.html": "/YatoSanctoDev/index.html",
+    "main.1238858f.css.map": "/YatoSanctoDev/static/css/main.1238858f.css.map",
+    "main.356e1ba6.js.map": "/YatoSanctoDev/static/js/main.356e1ba6.js.map",
+    "787.489ca74d.chunk.js.map": "/YatoSanctoDev/static/js/787.489ca74d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1238858f.css",
-    "static/js/main.97ae827a.js"
+    "static/js/main.356e1ba6.js"
   ]
 }
